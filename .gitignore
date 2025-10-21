@@ -1,0 +1,9 @@
+# Ignorar diretório "old" (na raiz e em quaisquer subdiretórios)
+old/
+**/old/
+
+**/__pycache__/
+**/atm_timeseries/
+
+# Ignorar todos os arquivos .zip em qualquer pasta
+*.zip
